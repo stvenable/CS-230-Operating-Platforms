@@ -1,6 +1,36 @@
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-What did you do particularly well in developing this documentation?
-What about the process of working through a design document did you find helpful when developing the code?
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+    • Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+      
+      The client was The Gaming Room, and they wanted to turn their Android mobile game, Draw It or Lose It, into a cross-platform game. 
+      They needed a system design that allows users on Windows, Mac, Linux, and iOS to connect over the internet and play together at the same time.
+
+    • What did you do particularly well in developing this documentation?
+      
+      Already having a strong grasp on the different operating system and how they work, I found it easy to translate my technical
+      computer science knowledge into well worded sentences need for the Software Design Document. Being able to convey highly technical ideas
+      to The Gaming Rooms executives was an important process of software development process.
+      
+    • What about the process of working through a design document did you find helpful when developing the code?
+      
+      Planning the three-tier architecture beforehand made coding much easier because the Client, Application, and Data tiers were already mapped out.
+      Knowing exactly how games, teams, and players connected saved time and stopped any confusion when writing the Java code.
+      
+    • If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+      
+      I felt that I could have provided more context to each section in the Evaluation matrix where I compared different aspects of all 
+      four operating platforms. I think that small size of each box in the matrix limited me to only a couple of sentences worth of test, 
+      but each sections could have had a paragraph or two providing even more detail.
+      
+    • How did you interpret the user’s needs and implement them into your software design? 
+      why is it so important to consider the user’s needs when designing?
+      
+      When designing software for a company, their user’s needs are critical considerations when developing the code. The whole point of this 
+      business transaction is to deliver a product that the customer strongly desires which will bring The Gaming Room higher profits. 
+      The technical requirements given to us by The Gaming Room helped me interpret the user’s needs: each team will have multiple players, 
+      teams must be able to choose their own custom team name etc. In another course I recently took, I learned about implementing User Stories 
+      into the software development process and think they would be have been very helpful for this project.
+      
+    • How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+      
+      I approached the design by comparing different operating systems to find the most stable, cost-effective setup, 
+      which led to choosing a Linux server and a MySQL database. In the future, I would use network simulation tools 
+      early on to test how well the servers handle different platforms before writing the final plan.
